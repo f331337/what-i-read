@@ -1,0 +1,15 @@
+#+title: Main entry about articles what I had read
+#+author: Nicolai Gulceac
+
+* Overview
+  I am loosing information what I read and I created that repo for tracking my
+  articles and thoughs on that.
+* How it is done
+  I am pretty familiar with org-mode and it gives great opportunity for
+  tracking everyhing via simple txt -> html files
+
+* List of articles:
+  1. [[file:./materials/test-article.org][test-article]]
+  2. 
+  3.  
+
